@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -45,7 +43,7 @@
 <body>
   <div class="card">
     <h2>Melito García</h2>
-    <p>Estudiante de Ingeniería de Sistemas, apasionado por la tecnología y el desarrollo web.</p>
+    <p>Estudiante de Ingeniería de Sistemas,</p>
     <button onclick="alert('¡Gracias por contactarme!')">Contáctame</button>
   </div>
 </body>
